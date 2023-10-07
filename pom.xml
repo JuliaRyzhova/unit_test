@@ -11,6 +11,7 @@
     <modules>
         <module>seminar1</module>
         <module>seminar2</module>
+        <module>seminar3</module>
     </modules>
 
     <properties>
