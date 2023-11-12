@@ -12,4 +12,4 @@ b. Сравнивает эти средние значения и выводит
 Используйте pylint (для Python) или Checkstyle (для Java) для проверки качества кода.
 Сгенерируйте отчет о покрытии кода тестами. Ваша цель - достичь минимум 90% покрытия.
 
-![Результат покрытия тестами](/Unit-tests/result_task/test_result.png)
+![Результат покрытия тестами]([/Unit-tests/result_task/test_result.png](https://i.ibb.co/7RSzLhB/test-result.png)https://i.ibb.co/7RSzLhB/test-result.png)
